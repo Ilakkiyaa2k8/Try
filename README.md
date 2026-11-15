@@ -1,2 +1,2 @@
 # Try
-Try Try Try till you suceed!
+Try Try Try till you succeed!
